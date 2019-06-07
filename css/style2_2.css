@@ -1,0 +1,11 @@
+#root{
+    color: pink;
+    font-size: 20px;
+    width: 200px;
+    border: 1px solid blue;
+    padding: 0 40px;
+    display: flex;
+}
+::placeholder {
+  color: gray;
+}
